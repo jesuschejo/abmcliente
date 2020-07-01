@@ -1,0 +1,16 @@
+
+
+class Alumno extends Persona {
+
+
+}
+
+$alumno3 = new Persona();
+$alumno3->nombre = “Ronaldo”;
+$alumno3->edad = 30;
+$alumno3->documento = “5437856932”;
+$alumno3->nacionalidad = “Brazil”;
+$alumno3->Grado= "cuarto primera";
+$alumno3->notas=5;
+$alumno3->promedio=5.5;
+
